@@ -1,5 +1,4 @@
-
-Debian Post Install Instructions By: Matthew_Moore 
+Best Results on a fresh debian installation
 
 ( Based on Debian 11 KDE ) 
 _____________________________________________________________________________
@@ -394,5 +393,11 @@ sudo apt-get install $(cat ~/Package.list | awk '{print $1}')
 #CRITICAL: Any packages installed using a .DEB file or other source not
 included in your repositories/sources.list, must be removed from Package.list before restoring to avoid errors. These packages will need to be reinstalled manually. 
 
+
+CreditMatthew_Moore 
+
+
+SPECIAL CREDIT TO:
+  Matthew_Moore
 
 
