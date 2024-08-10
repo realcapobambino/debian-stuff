@@ -1,16 +1,2 @@
-: 1681926052:0;ll
-: 1681926057:0;clear
-: 1681926061:0;cat 1
-: 1681926064:0;ll
-: 1681926065:0;clear
-: 1681926067:0;reset
-: 1681926068:0;ll
-: 1681926070:0;clear
-: 1681926073:0;git status
-: 1681926076:0;git add .
-: 1681926172:0;git commit -m "flickering windows"
-: 1681926176:0;clear
-: 1681926181:0;git push
-: 1681926212:0;clear
-: 1681926260:0;mv 1 pleaseread.txt
+
 open each script and go through it before executing. everyone knows this. don't be sheep
